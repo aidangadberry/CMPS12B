@@ -1,0 +1,6 @@
+Aidan Gadberry
+agadberr
+
+Note: Makefile does not properly create an executable, however I tried
+making it with someone else's Makefile and the executable seemed to
+run properly.

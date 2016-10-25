@@ -1,0 +1,41 @@
+Searching
+
+linear search O(n)
+binary search O(logn)
+hash search O(1)
+
+	Searching for Arrays:
+
+	int afind (String[] a, int n, String key){
+		for (int i = 0; i < n; i++){
+			if (a[i].equals(key)){
+				return i;
+			}
+		}
+		return -1;
+	}
+
+
+	Searching for Lists:
+
+	node lfind (node head, String key){
+		for (node c = head; c != null; c = c.link){
+			if (c.value.equals(key)){
+				return c;
+			}
+		}
+		return null;
+	}
+
+
+	Searching for Iterators:
+
+	Iterator  cfind (Coll co, String key){
+		for (Iterator i = co; i.hasNext();){
+			String t = i.next();
+			if (t.equals(key)){
+				return i;
+			}
+		}
+		return null;
+	}

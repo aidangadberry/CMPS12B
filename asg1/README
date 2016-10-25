@@ -1,0 +1,9 @@
+README
+
+Name: Aidan Gadberry
+Username: agadberr
+Hostname: unix1.lt.ucsc.edu
+Code: Taken from Assignment 1 PDF
+
+Note: The basename function in messages.java wasn't working properly, 
+	  so I changed it to always print out jgrep.java

@@ -1,0 +1,13 @@
+README
+
+Aidan Gadberry
+agadberr
+
+Note: I did all of the bigint functions to what I assume are correct,
+but I wasn't able to see if they functioned properly because I kept
+getting Segmentation fault errors when I would try to type things into
+the program. I assume it has something to do with memory allocation,
+which I don't understand well enough to figure out where the errors
+were occuring and fix them. So, while the program as a whole doesn't
+function, I think it would work properly if the few bugs were fixed,
+which I was unfortunately unable to do.

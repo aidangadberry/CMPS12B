@@ -1,0 +1,11 @@
+#!/bin/sh -x
+# $Id$
+
+Name: Aidan Gadberry
+Username: agadberr
+
+javac exit1.java
+echo Main-class: exit1 >Manifest
+jar cvfm exit1 Manifest exit1.class
+yes | rm -i Manifest exit1.class
+chmod +x mkexit1

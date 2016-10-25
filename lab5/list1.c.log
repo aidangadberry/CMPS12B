@@ -1,0 +1,8 @@
+list1.c:15:20: warning: implicitly declaring library function 'malloc' with type 'void *(unsigned long)'
+      node *node = malloc (sizeof (struct node));
+                   ^
+list1.c:15:20: note: please include the header <stdlib.h> or explicitly provide a declaration for 'malloc'
+list1.c:12:15: warning: unused parameter 'argc' [-Wunused-parameter]
+int main (int argc, char **argv) {
+              ^
+2 warnings generated.

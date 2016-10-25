@@ -1,0 +1,6 @@
+Aidan Gadberry
+agadberr
+
+Note: The Makefile wasn't properly creating the .o files, so I was
+never able to run the programs to test them, which made it impossible
+for me to bugtest beyond compilation errors.
