@@ -1,4 +1,4 @@
-Introduction to Data Structures
+# Introduction to Data Structures
 - Wesley Mackey - Spring 2014
 - https://courses.soe.ucsc.edu/courses/cmps12b
 - https://classes.soe.ucsc.edu/cmps012b/Winter15/
